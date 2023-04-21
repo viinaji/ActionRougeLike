@@ -13,5 +13,4 @@ UCLASS()
 class ACTIONROUGELIKE_API AActionRougeLikeGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
 };
